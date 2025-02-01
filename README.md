@@ -23,7 +23,7 @@ I work in IT with a focus on networking, infrastructure, and security. I have ha
 ### 🎯 Learning & Interests  
 - **Reverse Engineering:** Studying how software works at a low level and analyzing binaries.  
 - **C/C++ Programming:** Improving C++ skills and planning to learn C for low-level research.  
-- **Cybersecurity & Hacking:** Exploring network security, system hardening, and software security.  
+- **Cybersecurity:** Exploring network security, system hardening, and software security.  
 
 📡 **Contact:**  
 Signal: EA13.56  
