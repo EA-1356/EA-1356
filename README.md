@@ -25,7 +25,7 @@ I work in IT with a focus on networking, infrastructure, and security. I have ha
 - **C/C++ Programming:** Improving C++ skills and planning to learn C for low-level research.  
 - **Cybersecurity:** Exploring network security, system hardening, and software security.  
 
-📡 **Contact:**  
+📡 **Contact (Only for IT related things):**  
 Signal: EA13.56  
 
 ###
