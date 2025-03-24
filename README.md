@@ -27,7 +27,7 @@ I work in IT with a focus on networking, infrastructure, and security. I have ha
 
 ### 📡 **Contact**
 <p align="left">
-Only for IT/Programming related things!\n
+Only for IT/Programming related things! <br>
 Signal: EA13.56  
 
 ###
