@@ -26,7 +26,6 @@ I work in IT with a focus on networking, infrastructure, and security. I have ha
 - **Cybersecurity:** Exploring network security, system hardening, and software security.  
 
 ### 📡 **Contact**
-<p align="left">
 Only for IT/Programming related things! <br>
 Signal: EA13.56  
 
