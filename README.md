@@ -22,7 +22,7 @@ I work in IT with a focus on networking, infrastructure, and security. I have ha
 
 ### 🎯 Learning & Interests  
 - **Reverse Engineering:** Studying how software works at a low level and analyzing binaries.  
-- **C++/Rust Programming:** Improving C++ skills and planning to learn Rust.  
+- **C++/Rust Programming:** Improving C++ skills and learning Rust.  
 - **Cybersecurity:** Exploring network security, system hardening, and software security.  
 
 ### 📡 **Contact**
