@@ -22,7 +22,7 @@ I work in IT with a focus on networking, infrastructure, and security. I have ha
 
 ### 🎯 Learning & Interests  
 - **Reverse Engineering:** Studying how software works at a low level and analyzing binaries.  
-- **C/C++ Programming:** Improving C++ skills and planning to learn C for low-level research.  
+- **C++/Rust Programming:** Improving C++ skills and planning to learn Rust.  
 - **Cybersecurity:** Exploring network security, system hardening, and software security.  
 
 ### 📡 **Contact**
@@ -36,8 +36,9 @@ Signal: EA13.56
 ###
 
 <div align="left">
-  <a href="https://en.cppreference.com/w/c" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img width="12" />
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust"  />
   </a>
   <img width="12" />
   <a href="https://isocpp.org/" target="_blank">
